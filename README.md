@@ -1,2 +1,0 @@
-# artem-site
-Landing page — auto-deployed
